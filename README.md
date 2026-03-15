@@ -99,6 +99,6 @@ Constructive feedback is always appreciated.
 ## 👩‍💻 Author
 
 **Ujjuri Saisri**  
-B.Tech – Computer Science Engineering  
+B.Tech – Computer Science Engineering (AI&ML)
 Aspiring Data Analyst  
 Power BI | Data Visualization | Data Analytics
