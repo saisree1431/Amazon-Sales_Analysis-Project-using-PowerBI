@@ -1,11 +1,11 @@
 # Amazon Sales Analysis Dashboard – Power BI
 
 ## 🧠 The Story Behind This Project
-While learning data analytics and exploring datasets, I came across an Amazon product dataset containing information such as product names, categories, prices, discounts, customer ratings, and review counts.
+While learning data analytics and exploring datasets, I came across an Amazon product dataset containing information such as product names, categories, prices, discounts, customer ratings and review counts.
 
-Instead of simply creating charts, I wanted to explore how product data could reveal insights about pricing strategies, discounts, and customer satisfaction.
+Instead of simply creating charts, I wanted to explore how product data could reveal insights about pricing strategies, discounts and customer satisfaction.
 
-E-commerce platforms like Amazon generate a huge amount of product data every day. Understanding this data can help businesses identify product trends, pricing patterns, and customer preferences.
+E-commerce platforms like Amazon generate a huge amount of product data every day. Understanding this data can help businesses identify product trends, pricing patterns and customer preferences.
 
 Through this project, I aimed to analyze Amazon product data and present meaningful insights using an interactive Power BI dashboard.
 
